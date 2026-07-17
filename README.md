@@ -1,0 +1,100 @@
+# TradingView → NinjaTrader 8
+
+Popular **TradingView Pine Script** indicators, faithfully rebuilt as native **NinjaScript** for
+**NinjaTrader 8** — free to download, non-repainting, and ready to drop straight into NT8.
+
+Each indicator lives in its own folder with the source, its license, and a write-up.
+Every conversion credits the original Pine author and links back to the original script.
+
+**Full library, screenshots, and write-ups:** <https://mydailytake.com/tradingview-to-ninjatrader-8/>
+
+---
+
+## Indicators
+
+| Indicator | Original author | Original script | License | Write-up |
+|---|---|---|---|---|
+| [SuperTrend+](indicators/SuperTrendPlus) | Electrified | [TradingView](https://www.tradingview.com/script/smXJk7s5-SuperTrend/) | MPL-2.0 | [Read](https://mydailytake.com/tradingview-supertrend-plus-electrified-ninjatrader-8/) |
+
+## Install
+
+1. Download the `.cs` file for the indicator you want.
+2. Copy it to `Documents\NinjaTrader 8\bin\Custom\Indicators\`.
+3. In NinjaTrader: **Control Center → New → NinjaScript Editor**, press **F5** to compile.
+4. Add the indicator to a chart.
+
+Each indicator's write-up also ships a NinjaScript `.zip` you can import via
+**Tools → Import → NinjaScript Add-On** if you prefer one-click.
+
+## Conversion principles
+
+- **Non-repainting.** Values are computed from closed-bar data and are not rewritten after the fact.
+  What you see historically is what you'd have seen live.
+- **Standalone.** Every indicator is a single `.cs` file with no shared base classes or dependencies
+  on anything else in this repo. Download one file, compile, done.
+- **Faithful.** The goal is the original author's logic on NinjaTrader — not a reinterpretation.
+  Where NT8 forces a deviation, it's called out in that indicator's README.
+
+## Found a bug?
+
+**Maybe — but read this first.** It will not match TradingView pixel-for-pixel, and that usually
+isn't a bug: you're feeding it different data. TradingView's feed and your NT8 feed disagree about
+ticks, session times, contract rollover, and back-adjustment. Same math, different inputs, different
+line. Switch data providers and it'll move again. That's the nature of the exercise, not a defect.
+
+**Worth reporting:** it repaints, it throws errors in the log, it never flips when the original
+clearly does, or the logic plainly diverges from the Pine.
+
+And yes — sometimes it really is me. Conversions are genuine work. Pine and NinjaScript disagree
+about bar indexing, series behavior, and what counts as a closed bar, and I'm translating someone
+else's intent by hand, usually without the original author around to ask. I get it wrong sometimes.
+When I do, it's **my port** — not their script — so please don't go file it on their TradingView page.
+
+[Open an issue](../../issues) with:
+
+- **Which indicator**, and your NT8 version
+- **Instrument, bar type, and your data provider** — a 4-range on Rithmic finds things a 5-minute on
+  Kinetick never will
+- **Expected vs. actual** — a screenshot says it faster than three paragraphs
+
+I fix what I can reproduce. No SLA, no support desk, no ticket number — it's free code from one guy
+who also has to trade. But I read every one, and "this is wrong, here's the chart" is genuinely
+welcome. So is "here's a PR."
+
+## Licensing — read this
+
+**There is no single license for this repository.** Each indicator inherits the license of the Pine
+script it was adapted from, so the terms differ per folder:
+
+| License | What it means for you |
+|---|---|
+| **MPL-2.0** | Use commercially; modifications to the file must stay MPL-2.0. |
+| **GPL-3.0** | Use commercially; derivative works must remain GPL-3.0. |
+| **CC BY-SA 4.0** | Use commercially; derivatives must carry the same license. |
+| **CC BY-NC-SA 4.0** | **Non-commercial use only.** Derivatives must carry the same license. |
+
+**The license header inside each `.cs` file is authoritative and governs that file.** The `LICENSE`
+file in each indicator's folder carries the full text. If a header and anything else ever disagree,
+the header wins.
+
+> Because the licenses conflict with one another, this repo intentionally has **no root `LICENSE`
+> file** — a blanket license would misstate the terms of the original authors' work. GitHub will
+> therefore show "No license" in the sidebar; that is deliberate, not an oversight. Go by the
+> per-file headers.
+
+## Attribution
+
+Every conversion names its original Pine author and links to the original script, in both the file
+header and the folder README. Use of an author's name does not imply their endorsement.
+
+## Disclaimer
+
+For educational and informational purposes only. Nothing here is trading advice. Futures trading
+involves substantial risk of loss and is not suitable for every investor. Past or simulated
+performance is not indicative of future results. See the
+[full disclosure](https://mydailytake.com/disclosure/).
+
+---
+
+Built by [MyDailyTake](https://mydailytake.com) — NinjaTrader 8 tools and NinjaScript education.
+Also: [Learn NinjaScript](https://mydailytake.com/learn-ninjascript/) · [Tools](https://mydailytake.com/software/)

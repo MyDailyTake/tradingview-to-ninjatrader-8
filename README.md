@@ -14,7 +14,27 @@ Every conversion credits the original Pine author and links back to the original
 
 | Indicator | Original author | Original script | License | Write-up |
 |---|---|---|---|---|
+| [Andean Oscillator [alexgrover]](indicators/AndeanOscillator) | alexgrover | [TradingView](https://www.tradingview.com/script/x9qYvBYN) | CC-BY-NC-SA-4.0 | [Read](https://mydailytake.com/andean-oscillator-alexgrover-ninjatrader-8/) |
+| [Bayesian Trend Indicator [ChartPrime]](indicators/BayesianTrend) | ChartPrime | [TradingView](https://www.tradingview.com/script/rVEhAQDO) | MPL-2.0 | [Read](https://mydailytake.com/bayesian-trend-indicator-chartprime-ninjatrader-8/) |
+| [Beta-Weighted Moving Average (BWMA)](indicators/BetaWeightedMovingAverage) | alexgrover | [TradingView](https://www.tradingview.com/script/mheEtfmN) | CC-BY-SA-4.0 | [Read](https://mydailytake.com/tradingview-beta-weighted-moving-average-bwma-conversion-to-ninjatrader-8/) |
+| [Chop and explode (ps5) [capissimo]](indicators/ChopAndExplode) | capissimo | [TradingView](https://www.tradingview.com/script/L7ydBiKM) | MPL-2.0 | [Read](https://mydailytake.com/chop-and-explode-capissimo-ninjatrader-8/) |
+| [CM Williams Vix Fix [ChrisMoody]](indicators/CmWilliamsVixFix) | ChrisMoody | [TradingView](https://www.tradingview.com/script/og7JPrRA) | MPL-2.0 | [Read](https://mydailytake.com/cm-williams-vix-fix-chrismoody-ninjatrader-8/) |
+| [Cosine Kernel Regressions [QuantraSystems]](indicators/CosineKernelRegressions) | QuantraSystems | [TradingView](https://www.tradingview.com/script/wgTxuL34) | MPL-2.0 | [Read](https://mydailytake.com/tradingview-cosine-kernel-regressions-quantrasystems-conversion-to-ninjatrader-8/) |
+| [Evasive SuperTrend [LuxAlgo]](indicators/EvasiveSuperTrend) | LuxAlgo | [TradingView](https://www.tradingview.com/script/tfC7w3jE) | CC-BY-NC-SA-4.0 | [Read](https://mydailytake.com/evasive-supertrend-luxalgo-ninjatrader-8/) |
+| [Farey Sequence Weighted Moving Average](indicators/FareySequenceWeightedMovingAverage) | everget | [TradingView](https://www.tradingview.com/script/UQ48Qh3y) | GPL-3.0 | [Read](https://mydailytake.com/tradingview-farey-sequence-weighted-moving-average-conversion-to-ninjatrader-8/) |
+| [Fractals Trend [BigBeluga]](indicators/FractalsTrend) | BigBeluga | [TradingView](https://www.tradingview.com/script/aU8krboM) | CC-BY-NC-SA-4.0 | [Read](https://mydailytake.com/fractals-trend-bigbeluga-ninjatrader-8/) |
+| [FVG Instantaneous Mitigation Signals [LuxAlgo]](indicators/FvgInstantaneousMitigationSignals) | LuxAlgo | [TradingView](https://www.tradingview.com/script/xYpl5UdE) | CC-BY-NC-SA-4.0 | [Read](https://mydailytake.com/tradingview-fvg-instantaneous-mitigation-signals-luxalgo-conversion-to-ninjatrader-8/) |
+| [HalfTrend [everget]](indicators/HalfTrend) | everget | [TradingView](https://www.tradingview.com/script/U1SJ8ubc) | GPL-3.0 | [Read](https://mydailytake.com/halftrend-everget-ninjatrader-8/) |
+| [Kalman Price Filter [BackQuant]](indicators/KalmanPriceFilter) | BackQuant | [TradingView](https://www.tradingview.com/script/3N2zym2w) | MPL-2.0 | [Read](https://mydailytake.com/tradingview-kalman-price-filter-backquant-conversion-to-ninjatrader-8/) |
+| [KNN Supertrend Horizon [LuxAlgo]](indicators/KnnSupertrendHorizon) | LuxAlgo | [TradingView](https://www.tradingview.com/script/O6LjCPzY) | CC-BY-NC-SA-4.0 | [Read](https://mydailytake.com/knn-supertrend-horizon-luxalgo-ninjatrader-8/) |
+| [Median Proximity Percentile [AlgoAlpha]](indicators/MedianProximityPercentile) | AlgoAlpha | [TradingView](https://www.tradingview.com/script/YEu4VVBj) | MPL-2.0 | [Read](https://mydailytake.com/tradingview-median-proximity-percentile-algoalpha-conversion-to-ninjatrader-8/) |
+| [Nadaraya-Watson Envelope (Non-Repainting) [jdehorty]](indicators/NadarayaWatsonEnvelopeJdehorty) | jdehorty | [TradingView](https://www.tradingview.com/script/WeLssFxl) | MPL-2.0 | [Read](https://mydailytake.com/nadaraya-watson-envelope-jdehorty-ninjatrader-8/) |
+| [RSI Trail [UAlgo]](indicators/RsiTrail) | UAlgo | [TradingView](https://www.tradingview.com/script/PUGvtsEu) | CC-BY-NC-SA-4.0 | [Read](https://mydailytake.com/tradingview-rsi-trail-ualgo-conversion-to-ninjatrader-8/) |
+| [Smart Money Volume Index [AlgoAlpha]](indicators/SmartMoneyVolumeIndex) | AlgoAlpha | [TradingView](https://www.tradingview.com/script/WBJhew74) | MPL-2.0 | [Read](https://mydailytake.com/smart-money-volume-index-algoalpha-ninjatrader-8/) |
+| [Squeeze Momentum [LazyBear]](indicators/SqueezeMomentumLazyBear) | LazyBear | [TradingView](https://www.tradingview.com/script/nqQ1DT5a) | MPL-2.0 | [Read](https://mydailytake.com/squeeze-momentum-lazybear-ninjatrader-8/) |
 | [SuperTrend+](indicators/SuperTrendPlus) | Electrified | [TradingView](https://www.tradingview.com/script/smXJk7s5-SuperTrend/) | MPL-2.0 | [Read](https://mydailytake.com/tradingview-supertrend-plus-electrified-ninjatrader-8/) |
+| [Trend Direction Force Index v2 (TDFI) [wm]](indicators/TrendDirectionForceIndexv2) | causecelebre | [TradingView](https://www.tradingview.com/script/HUpIful1) | MPL-2.0 | [Read](https://mydailytake.com/tradingview-trend-direction-force-index-v2-tdfi-wm-to-ninjatrader-8/) |
+| [Wyckoff Springs [QuantVue]](indicators/WyckoffSprings) | QuantVue | [TradingView](https://www.tradingview.com/script/cI1uqRnB) | MPL-2.0 | [Read](https://mydailytake.com/tradingview-wyckoff-springs-quantvue-conversion-to-ninjatrader-8/) |
 
 ## Install
 
@@ -30,8 +50,9 @@ Each indicator's write-up also ships a NinjaScript `.zip` you can import via
 
 - **Non-repainting.** Values are computed from closed-bar data and are not rewritten after the fact.
   What you see historically is what you'd have seen live.
-- **Standalone.** Every indicator is a single `.cs` file with no shared base classes or dependencies
-  on anything else in this repo. Download one file, compile, done.
+- **Standalone.** Every indicator is a self-contained `.cs` with no shared base classes and no
+  dependency on anything else in this repo — download, compile, done. Most conversions are a single
+  file; a few ship several indicators derived from one original script (see that folder's README).
 - **Faithful.** The goal is the original author's logic on NinjaTrader — not a reinterpretation.
   Where NT8 forces a deviation, it's called out in that indicator's README.
 

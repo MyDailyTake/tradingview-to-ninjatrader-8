@@ -27,7 +27,7 @@ using NinjaTrader.NinjaScript.DrawingTools;
 // Adaptation for NinjaTrader by jack@mydailytake.com
 // Write-up + downloads: https://mydailytake.com/tradingview-cosine-kernel-regressions-quantrasystems-conversion-to-ninjatrader-8/
 // Source + all conversions: https://github.com/MyDailyTake/tradingview-to-ninjatrader-8
-// © [Current Year] MyDailyTake.com. All rights reserved.
+// © 2024 MyDailyTake.com. All rights reserved.
 // Adapted code is provided under the terms of the Mozilla Public License 2.0. Full license details at https://mozilla.org/MPL/2.0/
 // The use of QuantraSystems' name or its adapted code in this work does not imply endorsement by the original authors.
 

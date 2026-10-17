@@ -46,6 +46,7 @@ Every conversion credits the original Pine author and links back to the original
 | [SuperTrend Oscillator [ChartPrime]](indicators/SuperTrendOscillator) | ChartPrime | [TradingView](https://www.tradingview.com/script/JqEFTgOE) | MPL-2.0 | [Read](https://mydailytake.com/supertrend-oscillator-chartprime-ninjatrader-8/) |
 | [SuperTrend+](indicators/SuperTrendPlus) | Electrified | [TradingView](https://www.tradingview.com/script/smXJk7s5-SuperTrend/) | MPL-2.0 | [Read](https://mydailytake.com/tradingview-supertrend-plus-electrified-ninjatrader-8/) |
 | [Trend Direction Force Index v2 (TDFI) [wm]](indicators/TrendDirectionForceIndexv2) | causecelebre | [TradingView](https://www.tradingview.com/script/HUpIful1) | MPL-2.0 | [Read](https://mydailytake.com/tradingview-trend-direction-force-index-v2-tdfi-wm-to-ninjatrader-8/) |
+| [Volume Whale Zones [ChartPrime]](indicators/VolumeWhaleZones) | ChartPrime | [TradingView](https://www.tradingview.com/script/ldmdnX5K) | MPL-2.0 | [Read](https://mydailytake.com/volume-whale-zones-chartprime-ninjatrader-8/) |
 | [Wyckoff Springs [QuantVue]](indicators/WyckoffSprings) | QuantVue | [TradingView](https://www.tradingview.com/script/cI1uqRnB) | MPL-2.0 | [Read](https://mydailytake.com/tradingview-wyckoff-springs-quantvue-conversion-to-ninjatrader-8/) |
 
 ## Install

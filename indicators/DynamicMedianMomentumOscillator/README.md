@@ -41,3 +41,16 @@ historical bar is what the indicator would have shown live on that bar.
 | Display | **Display Mode** | Chooses which oscillator components are visible. |
 | Appearance | **Bullish Color** | Color used for bullish lines, fills, and positive histogram bars. |
 | Appearance | **Bearish Color** | Color used for bearish lines, fills, and negative histogram bars. |
+
+## Found a bug?
+
+If it doesn't match TradingView exactly, that's probably the **data**, not the code — different feed,
+different ticks and session times, different line. If it repaints, errors, or the logic plainly
+diverges from the Pine, that's more likely **my port** than AlgoAlpha's script, and I'd like to know.
+[Open an issue](../../issues) with your NT8 version, instrument, bar type, and data provider. More in
+the [main README](../../README.md#found-a-bug).
+
+## Attribution
+
+Adapted from Pine Script™ code originally licensed under **MPL-2.0**. The original Pine Script™ code
+is by **AlgoAlpha**. Adaptation for NinjaTrader by [jack@mydailytake.com](mailto:jack@mydailytake.com).

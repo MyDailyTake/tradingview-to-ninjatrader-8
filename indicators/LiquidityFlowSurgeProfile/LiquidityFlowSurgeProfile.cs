@@ -25,6 +25,8 @@ using NinjaTrader.NinjaScript.DrawingTools;
 // This NinjaTrader 8 script is adapted from Pine Script™ code originally licensed under the Mozilla Public License 2.0 (MPL 2.0).
 // The original Pine Script™ code is by ChartPrime and can be found at: https://www.tradingview.com/script/EQSY3xU0-Liquidity-Flow-Surge-Profile-ChartPrime/
 // Adaptation for NinjaTrader by jack@mydailytake.com
+// Write-up + downloads: https://mydailytake.com/liquidity-flow-surge-profile-chartprime-ninjatrader-8/
+// Source + all conversions: https://github.com/MyDailyTake/tradingview-to-ninjatrader-8
 // © 2026 MyDailyTake.com. All rights reserved.
 // Adapted code is provided under the terms of the Mozilla Public License 2.0. Full license details at https://mozilla.org/MPL/2.0/
 // The use of ChartPrime name or its adapted code in this work does not imply endorsement by the original authors.

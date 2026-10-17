@@ -25,6 +25,8 @@ using NinjaTrader.NinjaScript.DrawingTools;
 // This NinjaTrader 8 script is adapted from Pine Script™ code originally licensed under the Mozilla Public License 2.0 (MPL 2.0).
 // The original Pine Script™ code is by Mihkel00 and can be found at: https://www.tradingview.com/script/TpUW4muw-QQE-MOD/
 // Adaptation for NinjaTrader by jack@mydailytake.com
+// Write-up + downloads: https://mydailytake.com/qqe-mod-mihkel00-ninjatrader-8/
+// Source + all conversions: https://github.com/MyDailyTake/tradingview-to-ninjatrader-8
 // © 2026 MyDailyTake.com. All rights reserved.
 // Adapted code is provided under the terms of the Mozilla Public License 2.0. Full license details at https://mozilla.org/MPL/2.0/
 // The use of Mihkel00 name or its adapted code in this work does not imply endorsement by the original authors.

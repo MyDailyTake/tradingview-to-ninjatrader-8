@@ -26,6 +26,8 @@ using NinjaTrader.NinjaScript.DrawingTools;
 // Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
 // The original Pine Script™ code is by Zeiierman and can be found at: https://www.tradingview.com/script/r8j7m88J-SuperTrend-Cluster-Zeiierman/
 // Adaptation for NinjaTrader by jack@mydailytake.com
+// Write-up + downloads: https://mydailytake.com/supertrend-cluster-zeiierman-ninjatrader-8/
+// Source + all conversions: https://github.com/MyDailyTake/tradingview-to-ninjatrader-8
 // © 2026 MyDailyTake.com. All rights reserved.
 // Adapted code is provided under the terms of the CC BY-NC-SA 4.0 license. Full license details at https://creativecommons.org/licenses/by-nc-sa/4.0/
 // The use of Zeiierman name or its adapted code in this work does not imply endorsement by the original authors.

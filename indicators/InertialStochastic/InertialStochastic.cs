@@ -25,6 +25,8 @@ using NinjaTrader.NinjaScript.DrawingTools;
 // This NinjaTrader 8 script is adapted from Pine Script™ code originally licensed under a Attribution-NonCommercial-ShareAlike 4.0 International.
 // The original Pine Script™ code is by LuxAlgo and can be found at: https://www.tradingview.com/script/AgyYROJE-Inertial-Stochastic-LuxAlgo/
 // Adaptation for NinjaTrader by jack@mydailytake.com
+// Write-up + downloads: https://mydailytake.com/inertial-stochastic-luxalgo-ninjatrader-8/
+// Source + all conversions: https://github.com/MyDailyTake/tradingview-to-ninjatrader-8
 // © 2026 MyDailyTake.com. All rights reserved.
 // Adapted code is provided under the terms of the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0/
 // The use of LuxAlgo name or its adapted code in this work does not imply endorsement by the original authors.

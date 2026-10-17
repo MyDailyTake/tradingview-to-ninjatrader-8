@@ -49,3 +49,9 @@ the [main README](../../README.md#found-a-bug).
 
 Adapted from Pine Script™ code originally licensed under **MPL-2.0**. The original Pine Script™ code
 is by **LuxAlgo**. Adaptation for NinjaTrader by [jack@mydailytake.com](mailto:jack@mydailytake.com).
+
+## Disclaimer
+
+For educational and informational purposes only. Nothing here is trading advice. Futures trading
+involves substantial risk of loss and is not suitable for every investor. See the
+[full disclosure](https://mydailytake.com/disclosure/).
